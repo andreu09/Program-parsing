@@ -1,0 +1,17 @@
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\bin\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.exe
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\bin\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.deps.json
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\bin\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.runtimeconfig.json
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\bin\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.runtimeconfig.dev.json
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\bin\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.dll
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\bin\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.pdb
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.csproj.AssemblyReference.cache
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.Form1.resources
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.Properties.Resources.resources
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.csproj.GenerateResource.cache
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.AssemblyInfoInputs.cache
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.AssemblyInfo.cs
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.csproj.CoreCompileInputs.cache
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.dll
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.pdb
+C:\Users\79106\source\repos\kurs_lipo_shmakov_846\obj\Debug\netcoreapp3.1\kurs_lipo_shmakov_846.genruntimeconfig.cache
